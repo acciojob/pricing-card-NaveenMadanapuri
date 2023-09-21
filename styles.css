@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+/* #card:last-child{
+	border:none;
+	background-color:#fe625a
+	color:#fbfbfb;
+	font-weight:600;
+	
+} */
+*{
+	margin:0px;
+	padding:0px;
+}
+#card{
+	width:100vw;
+	height:100vh:
+	background-color:blue;
+}
